@@ -19,6 +19,7 @@
 
 ### 📌 Featured Projects
 
+- **[Text-to-Speech Pro](https://github.com/z9v66/Text-To-Speech-App):** A modern desktop application for text-to-speech conversion built with Python, pyttsx3, and a modular CustomTkinter UI.
 - **[Internet Speed Test CLI](https://github.com/z9v66/internet-speed-test):** A lightweight Python command-line tool to measure real-time internet download and upload speeds.
 - **[Air Piano](https://github.com/z9v66/Air-Piano):** An interactive web-based application utilizing hand-tracking libraries and audio logic to map real-time gestures into musical notes.
 
@@ -29,5 +30,3 @@
 - **Languages:** C++, Python, JavaScript
 - **Web:** HTML, CSS
 - **Tools:** Git, GitHub, VS Code
-
-
