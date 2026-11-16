@@ -20,7 +20,7 @@
 ### 🛠️ Tech Stack
 
 - **Languages:** C++, Python, JavaScript
-- **Web:** HTML, CSS, Node.js
+- **Web:** HTML, CSS, 
 - **Tools:** Git, GitHub, VS Code
 
 ---
