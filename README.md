@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋, I'm Mustafa
+ I'm Mustafa
 
 ### 💻 Second-Year Computer Science Student @ UOT, Iraq
 
