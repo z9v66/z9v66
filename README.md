@@ -30,10 +30,4 @@
 - **Web:** HTML, CSS
 - **Tools:** Git, GitHub, VS Code
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=z9v66&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Mustafa's GitHub stats" />
-</p>
